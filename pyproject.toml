@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "pt-analytics"
+version = "0.1.0"
+description = ""
+authors = ["Ivo de Geus <mail4ivo@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.4.2"
+jupyter = "^1.0.0"
+ipykernel = "^6.13.0"
+
+[tool.poetry.dev-dependencies]
+pytest = "^5.2"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
