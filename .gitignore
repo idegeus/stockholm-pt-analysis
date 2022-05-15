@@ -1,2 +1,5 @@
-data
+data/0-koda-gtfs-static
+data/0-koda-gtfs-rt
+data/3-cleaned-data
+data/10-cleaned-data-camille
 data collection seminar
