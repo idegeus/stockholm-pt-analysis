@@ -3,3 +3,5 @@ data/0-koda-gtfs-rt
 data/3-cleaned-data
 data/10-cleaned-data-camille
 data collection seminar
+.DS_Store
+**/.DS_Store
